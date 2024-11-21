@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Daf.PiApprox.Cli;
+﻿namespace Daf.PiApprox.Cli;
 public class PiService : IPiService
 {
     // at first it will be 1000 point then you will have to increment it go straight to 10000 then 1000000
