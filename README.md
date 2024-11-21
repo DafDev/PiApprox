@@ -1,7 +1,3 @@
-Here’s an updated README that incorporates the details of the `PiService` class and its Monte Carlo method for approximating Pi:
-
----
-
 # Pi Approximation CLI Application
 
 ## Overview
